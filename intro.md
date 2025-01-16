@@ -42,15 +42,19 @@ A branch of security focused on protecting assets in cyberspace.
 - Response: Once attack has happened, respond to it. Detection without response is pointless.
 
 6. **Defense in depth**
+
 Use multiple layers of security so that if one fails, others are ready to protect against the attack, keep in mind that 'security is economics'.
 
 7. **Least privilege**
+
 Information abstraction i.e. give people/system only the permissions they need, nothing more.
 
 8. **Separation of responsibility**
+
 Split responsibilities so that no single person has the complete power.
 
 9. **Ensure complete meditation**
+
 It's like authorization, always check permissions before allowing access to a resource.
 
 10. **Don't rely on security through obscurity**
@@ -60,7 +64,9 @@ It's like authorization, always check permissions before allowing access to a re
 - Closed source apps are not automatically more secure as attackers might reverse engineer to find the source code or vulnerabilities.
 
 11. **Use Fail-Safe defaults**
+
 The system must go to a 'secure state' if something goes wrong.
 
 12. **Design security from the start**
+
 Integrate security into the system from the start, instead of adding it later as an afterthought.
