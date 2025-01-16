@@ -60,7 +60,7 @@ It's like authorization, always check permissions before allowing access to a re
 - Closed source apps are not automatically more secure as attackers might reverse engineer to find the source code or vulnerabilities.
 
 11. **Use Fail-Safe defaults**
-The system must go to a 'secure state' if any security breach happens.
+The system must go to a 'secure state' if something goes wrong.
 
 12. **Design security from the start**
 Integrate security into the system from the start, instead of adding it later as an afterthought.
